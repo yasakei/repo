@@ -1,0 +1,15 @@
+Package: com.yasakei.redirectold
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Yasakei
+Installed-Size: 216
+Filename: deb/com.yasakei.redirectold_1.0_iphoneos-arm.deb
+Size: 4336
+MD5sum: f44a0d3e12365da78b51897168286a83
+SHA1: eabfb7e78f776771bad36efa8d378a12f88e36e6
+SHA256: a8da097248a61aedfdefc3416c99e55f2708a682536e8ce14e7b4d84fa4ed67b
+Section: Tweaks
+Description: Safari tweak that redirects www.reddit.com to old.reddit.com.
+Author: Yasakei
+Name: RedirectOld (iOS )
+
