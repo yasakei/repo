@@ -1,0 +1,10 @@
+Origin: yasakei
+Label: yasakei
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 all
+Components: main
+Description: yasakei - iOS Tweaks Repository
+MD5Sum:
+SHA256:
