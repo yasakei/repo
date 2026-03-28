@@ -5,6 +5,10 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 all
 Components: main
-Description: yasakei - iOS Tweaks Repository
+Description: yasakei - iOS Tweaks Repository (32-bit & 64-bit)
 MD5Sum:
 SHA256:
+ e7810e7809989628a9e2e94bf5f9cf85 560 Packages
+ da0d289f649658b95541a915228d47f3 386 Packages.gz
+ 3cd3e1d5f25ccd60a52e612c4f113621eee2d2a801453db58f7a09342fe10c4f 560 Packages
+ a79c45ffacf0b075c090322ac27c44f9ac7867d47c18f2e8d55882675858c033 386 Packages.gz
